@@ -354,3 +354,5 @@ RUBY VERSION
 
 BUNDLED WITH
    2.1.4
+
+ bundle lock --add-platform x86_64-linux
